@@ -1,2 +1,2 @@
 # Javascript-AnalogClock
-# https://hsnckkgl.github.io/JS-AnalogClock/
+# https://hsnckkgl.github.io/JavaScript-AnalogClock/
